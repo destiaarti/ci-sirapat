@@ -1,7 +1,7 @@
 # ci-sirapat
 SI Manajemen Rapat Dengan CI AdminLTE+Gantarela alela
-# 3 Hak akses user:
-# ADMIN:
+3 Hak akses user:
+ADMIN:
 # +Mengelola anggota
 # +Mengatur menu/crud generator
 # +Mengelola jadwal rapat
