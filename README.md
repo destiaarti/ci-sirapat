@@ -1,5 +1,5 @@
 # ci-sirapat
-SI Manajemen Rapat Dengan CI AdminLTE+Gantarela alela
+SI Manajemen Rapat Dengan CI AdminLTE+Gantarela alela.
 3 Hak akses user:
 ADMIN:
 # +Mengelola anggota
